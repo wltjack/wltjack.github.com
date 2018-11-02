@@ -7,12 +7,12 @@ description: wltjack的个人博客网站,前端HTML、HTML5、CSS、CSS3、Java
 # Your information
 email: wltjack@sina.com
 author: wltjack #博主的名字
-place: yourhometown #杭州
-domain: yourdoamain #互联网
+place: 成都 #杭州
+domain: java开发 #互联网
 company: yourcompany #Jeeyoo
-position: yourjob #Technical Support
-school: yourschool #浙江科技学院
-major: yourmajoy #测控技术与仪器
+position: java程序员 #Technical Support
+school: 四川理工 #浙江科技学院
+major: 计算机科学与技术 #测控技术与仪器
 resume: "http://zhaoyuxiang.cn/cv"
 profile: Time is money. #yourmotto #聪明在于勤奋，天才在于积累。
 twitter_username: 
@@ -42,3 +42,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+gems: [jekyll-paginate]
+paginate: 5
