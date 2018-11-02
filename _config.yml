@@ -33,7 +33,8 @@ gems:
  - jemoji
 
 # Build settings
-paginate: 2
+gems: [jekyll-paginate]
+paginate: 5
 paginate_path: "/page:num"
 
 highlighter: rouge
@@ -43,5 +44,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-gems: [jekyll-paginate]
-paginate: 5
