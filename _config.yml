@@ -1,6 +1,6 @@
 # Site settings
 title: wltjack # 博客的名字
-url: "https://wltjack.github.io/"    # the protocol and hostname of your site, eg. `https://wltjack.github.io/`
+url: "https://wltjack.github.io"    # the protocol and hostname of your site, eg. `https://wltjack.github.io/`
 baseurl: "/" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/` #博客的根地址
 #timezone: Asia/Shanghai
 description: wltjack的个人博客网站,前端HTML、HTML5、CSS、CSS3、JavaScript、JQuery等编程经验总结分享。
@@ -21,7 +21,7 @@ github_username:  wltjack
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: zhaoyuxiang   
+disqus_shortname:    
 # get one: https://disqus.com/admin/signup/
 # duoshuo_shortname: clark-zhao  
 # get one: http://duoshuo.com/create-site/
