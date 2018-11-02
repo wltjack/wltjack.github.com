@@ -1,1 +1,44 @@
-theme: jekyll-theme-architect
+# Site settings
+title: wltjack # 博客的名字
+url: "https://wltjack.github.io/"    # the protocol and hostname of your site, eg. `https://wltjack.github.io/`
+baseurl: "/" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/` #博客的根地址
+#timezone: Asia/Shanghai
+description: wltjack的个人博客网站,前端HTML、HTML5、CSS、CSS3、JavaScript、JQuery等编程经验总结分享。
+# Your information
+email: wltjack@sina.com
+author: wltjack #博主的名字
+place: yourhometown #杭州
+domain: yourdoamain #互联网
+company: yourcompany #Jeeyoo
+position: yourjob #Technical Support
+school: yourschool #浙江科技学院
+major: yourmajoy #测控技术与仪器
+resume: "http://zhaoyuxiang.cn/cv"
+profile: Time is money. #yourmotto #聪明在于勤奋，天才在于积累。
+twitter_username: 
+weibo_username:  
+github_username:  wltjack
+
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+disqus_shortname: zhaoyuxiang   
+# get one: https://disqus.com/admin/signup/
+# duoshuo_shortname: clark-zhao  
+# get one: http://duoshuo.com/create-site/
+
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 2
+paginate_path: "/page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
