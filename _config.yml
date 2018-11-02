@@ -1,5 +1,5 @@
 # Site settings
-title: wltjack # 博客的名字
+title: wltjack的个人网站 # 博客的名字
 url: "https://wltjack.github.io"    # the protocol and hostname of your site, eg. `https://wltjack.github.io/`
 baseurl: "/" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/` #博客的根地址
 #timezone: Asia/Shanghai
@@ -7,13 +7,13 @@ description: wltjack的个人博客网站,前端HTML、HTML5、CSS、CSS3、Java
 # Your information
 email: wltjack@sina.com
 author: wltjack #博主的名字
-place: 成都 #杭州
+place: 成都
 domain: java开发 #互联网
-company: yourcompany #Jeeyoo
-position: java程序员 #Technical Support
-school: 四川理工 #浙江科技学院
-major: 计算机科学与技术 #测控技术与仪器
-resume: "http://zhaoyuxiang.cn/cv"
+company: 
+position: java程序员
+school: 四川理工
+major: 计算机科学与技术
+resume: "https://wltjack.github.io"
 profile: Time is money. #yourmotto #聪明在于勤奋，天才在于积累。
 twitter_username: 
 weibo_username:  
