@@ -1,5 +1,5 @@
 # Site settings
-title: wltjack的个人网站 # 博客的名字
+title: wltjack's blog # 博客的名字
 url: "https://wltjack.github.io"    # the protocol and hostname of your site, eg. `https://wltjack.github.io/`
 baseurl: "/" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/` #博客的根地址
 #timezone: Asia/Shanghai
